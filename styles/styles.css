@@ -12,7 +12,6 @@ info:#0ce3e8
     background-color: rgb(199, 252, 223);
 }
 .text-center{
-    display: block;
     text-align: center;
 }
 .bienvenida{
@@ -30,6 +29,28 @@ info:#0ce3e8
 }
 .text-boton{
     background-color: #0ce3e8;
-    color: white;
+    color: rgb(250, 250, 250);
     font-size: larger;
+}
+
+
+/*Segundo html*/
+
+
+
+.body2{
+
+}
+.text-primario{
+
+}
+.subtitulo{
+
+}
+.table-center{
+    display: flex;
+    justify-content: center;
+}
+.color{
+    background-color: #aefdd6;
 }
