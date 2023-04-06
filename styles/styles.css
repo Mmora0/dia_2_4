@@ -1,0 +1,35 @@
+/*
+Colores de mi sitio Web
+primario:#1f0441
+secundario:#fc1068
+terciario:#fcab10
+light:#f9ce07
+info:#0ce3e8
+
+*/
+
+.body1{
+    background-color: rgb(199, 252, 223);
+}
+.text-center{
+    display: block;
+    text-align: center;
+}
+.bienvenida{
+    color: #1f0441;
+}
+.presentado{
+    color: #fc1068;
+}
+.parrafo{
+    color: #fcab10;
+}
+.boton{
+    display: flex;
+    justify-content: center;
+}
+.text-boton{
+    background-color: #0ce3e8;
+    color: white;
+    font-size: larger;
+}
